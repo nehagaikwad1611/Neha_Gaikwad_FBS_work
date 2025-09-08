@@ -10,5 +10,3 @@ else:
         print(f"{Gender} is eligible for marriage.")  
     else:
         print(f"{Gender} is not eligible for marriage.")  
-
-   

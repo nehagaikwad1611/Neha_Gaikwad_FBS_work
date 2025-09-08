@@ -11,3 +11,4 @@ else:
 
 bill = bill + (bill * 0.20)
 print(f'Total bill in Rs: {bill}')
+
