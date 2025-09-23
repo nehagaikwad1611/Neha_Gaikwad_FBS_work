@@ -1,0 +1,1 @@
+# To count the occurrences of each word in a string
